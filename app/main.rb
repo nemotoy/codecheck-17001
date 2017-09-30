@@ -9,4 +9,5 @@ def main(argv)
     v = argv[i]
     puts "argv[#{i}]: #{v}"
   end
+  puts "hello"
 end
